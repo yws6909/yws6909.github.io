@@ -33,3 +33,6 @@
 
 # jekyll
 _site/*
+
+# macOS
+.DS_Store
